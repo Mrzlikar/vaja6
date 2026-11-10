@@ -5,3 +5,6 @@ while True:
   upper= False
   lower = False
   number = False
+for char in passw0rd:
+  if char >= "A" and char <= "Z":
+    upper= True
